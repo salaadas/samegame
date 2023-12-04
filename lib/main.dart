@@ -123,7 +123,7 @@ class MyApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return MaterialApp(
-      title: 'Flutter Demo',
+      title: 'samegame',
       theme: ThemeData(
         // This is the theme of your application.
         //
@@ -144,7 +144,7 @@ class MyApp extends StatelessWidget {
         scaffoldBackgroundColor: const Color(0xFF181818),
         useMaterial3: true,
       ),
-      home: const MyHomePage(title: 'Flutter Demo Home Page'),
+      home: const MyHomePage(title: 'samegame'),
     );
   }
 }
